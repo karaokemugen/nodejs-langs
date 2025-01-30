@@ -53,6 +53,7 @@ module.exports = [
     {"name":"German", "local":"Deutsch", "1":"de", "2":"deu", "2T":"deu", "2B":"ger", "3":"deu"},
     {"name":"Greek", "local":"Ελληνικά", "1":"el", "2":"ell", "2T":"ell", "2B":"gre", "3":"ell"},
     {"name":"Guaraní", "local":"Avañe'ẽ", "1":"gn", "2":"grn", "2T":"grn", "2B":"grn", "3":"grn"},
+	{"name":"Swiss German", "local":"Schwiizerdütsch", "1":"gsw", "2":"gsw", "2T":"gsw", "2B":"gsw", "3":"gsw"},
     {"name":"Gujarati", "local":"ગુજરાતી", "1":"gu", "2":"guj", "2T":"guj", "2B":"guj", "3":"guj"},
     {"name":"Haitian", "local":"Kreyòl Ayisyen", "1":"ht", "2":"hat", "2T":"hat", "2B":"hat", "3":"hat"},
     {"name":"Hausa", "local":"هَوُسَ", "1":"ha", "2":"hau", "2T":"hau", "2B":"hau", "3":"hau"},
